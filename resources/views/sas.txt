@@ -1,0 +1,7 @@
+
+            <li class="nav-item">
+            <a class="nav-link" href="{{ route('access.room911') }}">Module Room 911</a>
+            </li>
+            <li class="nav-item">
+            <a class="nav-link" href="{{ route('room911') }}">Room 911</a>
+            </li>
